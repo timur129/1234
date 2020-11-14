@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\HomeUser\source\repos\Timur_1500_2\Timur_1500_2\Source.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Timur_1500_2.vcxproj -> C:\Users\HomeUser\source\repos\Timur_1500_2\Debug\Timur_1500_2.exe

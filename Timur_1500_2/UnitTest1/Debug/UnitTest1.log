@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+C:\Users\HomeUser\source\repos\Timur_1500_2\Timur_1500_2\OrderModule.cpp(36,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HomeUser\source\repos\Timur_1500_2\Timur_1500_2\OrderModule.cpp(37,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HomeUser\source\repos\Timur_1500_2\Timur_1500_2\OrderModule.cpp(51,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\HomeUser\source\repos\Timur_1500_2\Timur_1500_2\OrderModule.cpp(55,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HomeUser\source\repos\Timur_1500_2\Timur_1500_2\OrderModule.cpp(60,31): warning C4018: <: несоответствие типов со знаком и без знака
+  UnitTest1.vcxproj -> C:\Users\HomeUser\source\repos\Timur_1500_2\Debug\UnitTest1.dll
